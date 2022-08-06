@@ -1,0 +1,22 @@
+{
+	"discord": {
+		"token_main": "",
+		"token_test": "",
+		"use_token": "test"
+	},
+	"DB": {
+		"user": "",
+		"password": "",
+		"host": "",
+		"database": "",
+		"prefix": ""
+	},
+	"colors": {
+		"success": "3648256",
+		"warn": "13160704",
+		"danger": "12517376",
+		"info": "41920",
+		"admin": "16711920",
+		"invisible": "3092790"
+	}
+}
